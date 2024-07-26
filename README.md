@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SGomezSantiago
 - 👀 I’m interested in coding for internships.
 - 🌱 I’m currently learning python and C++.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: My email is gomezsergioworkplace@gmail.com
 
 <!---
